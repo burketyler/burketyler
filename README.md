@@ -1,6 +1,6 @@
 # Tyler Burke
 
-Senior Software Engineer specializing in **TypeScript, AWS serverless systems, and scalable web architecture**.
+Senior Software Engineer specializing in **TypeScript, AWS systems, and scalable web architecture**.
 
 I build **production-oriented platforms, frameworks, and design systems** that improve developer velocity and enable teams to ship faster with confidence.
 
