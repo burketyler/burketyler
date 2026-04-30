@@ -104,7 +104,7 @@ CI/CD (GitHub Actions, GitLab), Jest, ESLint, Lerna, OpenAPI
 ## 📫 Connect
 
 * Portfolio: https://tylerburke.dev
-* LinkedIn: [(add here)](https://www.linkedin.com/in/tyler-burke/)
+* LinkedIn: https://www.linkedin.com/in/tyler-burke/
 * Email: [me@tylerburke.dev](mailto:me@tylerburke.dev)
 
 ---
